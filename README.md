@@ -1,4 +1,4 @@
-js-get-current-date
-===================
+live-date-and-time
+==================
 
-JavaScript that displays the current date in mm/dd/yy format.
+A script that displays the current date and time.
